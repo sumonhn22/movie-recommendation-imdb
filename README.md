@@ -4,4 +4,4 @@
 
 * Used ` cosine similarity ` to predict recommended movies
 
-Clone the repositories and to see the application run:  ` streamlit run app.py `
+Clone the repositories and see the application by running:  ` streamlit run app.py `.
