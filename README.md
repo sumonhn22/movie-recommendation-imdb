@@ -1,8 +1,7 @@
-# Movie Recommendation System TMDB dataset
+# A content based movie recommendation system Movie Recommendation System
 
+* A web application (NLP task) is performed for TMDB dataset with feature engineering such as ` convert string to text `, ` create tags`.
 
-## A content based movie recommendation system using 'cosine similarity'
+* Used ` cosine similarity ` to predict recommended movies
 
-Run: 
-
-` streamlit run app.py `
+Clone the repositories and run:  ` streamlit run app.py `
